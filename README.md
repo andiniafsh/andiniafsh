@@ -6,3 +6,5 @@
 - 🌱 Currently learning: Machine Learning and Web Development  
 - 📫 Connect with me on LinkedIn: [linkedin.com/in/andinifitriyahsalsabilah](https://www.linkedin.com/in/andinifitriyahsalsabilah/)  
 - 😄 Pronouns: She/Her
+
+[![Andini's GitHub stats](https://github-readme-stats.vercel.app/api?username=andiniafsh&count_private=true&show_icons=true&there=radical&hide_rank=false)](https://github.com/andiniafs/github-readme-stats)
